@@ -37,6 +37,12 @@ Here’s what you will see:
 - **Squirtle**
 - **Mewtwo**
 
+##Pictures
+![image](https://github.com/user-attachments/assets/b5694563-6548-4d08-be59-c20817065f47)
+
+
+  
+
 ## Future Enhancements
 
 - Add a description or name overlay for each card.
